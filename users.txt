@@ -1,0 +1,3 @@
+id|username|email|password|position
+1|Админ|admin@email.com|$2y$13$BoYsP404GLw/2ePiRrooqOhevIUP30TmVpsULlnTrF8zt1PDiDeBK|IT Expert
+2|Модератор|moderator@email.com|$2y$13$EX1yZUTBsVQalLE6blBgbu.WickzpK.oujaTCrFX1cj0yfhNoMDhi|Moderator
